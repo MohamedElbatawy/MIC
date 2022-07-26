@@ -1,0 +1,1 @@
+{"uuid":"9a5a5163-d76c-44e3-9a55-29d146c4a91c","name":"MICRegression","children":["d840aad3-1f2b-4b30-94b7-e868cc2f3560"],"befores":[{"name":"startDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1623192061363,"stop":1623192085029}],"afters":[],"links":[],"start":1623192061271,"stop":1623192188296}

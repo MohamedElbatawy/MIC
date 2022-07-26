@@ -1,0 +1,1 @@
+{"uuid":"5aef0bca-3f6e-4d75-8001-7d78b269c1d1","name":"Command line suite","children":["655e299c-ca8b-4b3f-8178-ead8bf194328"],"befores":[{"name":"startDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1604153995114,"stop":1604154169258}],"afters":[],"links":[],"start":1604153995096,"stop":1604154466929}
